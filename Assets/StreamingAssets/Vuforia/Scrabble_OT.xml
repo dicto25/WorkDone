@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <Tracking>
+    <ObjectTarget name="Z" />
+    <ObjectTarget name="Y" />
+    <ObjectTarget name="Y1" />
+    <ObjectTarget name="X" />
+    <ObjectTarget name="W" />
+    <ObjectTarget name="V" />
+    <ObjectTarget name="U" />
+    <ObjectTarget name="T" />
+    <ObjectTarget name="S" />
+    <ObjectTarget name="R" />
+    <ObjectTarget name="Q" />
+    <ObjectTarget name="P" />
+    <ObjectTarget name="O" />
+    <ObjectTarget name="N" />
+    <ObjectTarget name="M" />
+    <ObjectTarget name="L" />
+    <ObjectTarget name="K" />
+    <ObjectTarget name="J" />
+    <ObjectTarget name="I" />
+    <ObjectTarget name="H" />
+    <ObjectTarget name="G" />
+    <ObjectTarget name="F" />
+    <ObjectTarget name="E" />
+    <ObjectTarget name="E1" />
+    <ObjectTarget name="D2" />
+    <ObjectTarget name="C2" />
+    <ObjectTarget name="B2" />
+    <ObjectTarget name="A2" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <TargetSet version="5.0" toolVersion="4.2.0">
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-11-16 18:13:52" name="YY" targetId="bb6cc5171ca342419e7f8a8a81e0b75c" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-11-16 18:11:33" name="XX" targetId="35cd094eecf940db9df49dfffa3838c5" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-11-16 18:09:00" name="WW" targetId="1f43880aea7d4dceba67298a9a405c36" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-11-16 18:06:13" name="UU" targetId="8af70b94bb9340f9a5353859adce1be9" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-11-16 18:03:22" name="TT" targetId="aac4e36bb4034c15a6fce99e35b50f07" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-11-16 18:00:25" name="SS" targetId="f78f6f14566d464aa268723f1f606428" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-11-16 17:58:10" name="RR" targetId="0ceb09a4a312487e9c3491b10700ba6d" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-11-16 17:56:07" name="QQ" targetId="dc5ea5ff453a40718a0c692a4bc1630a" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-11-16 17:51:21" name="OOO" targetId="27cb2a4cde7142bea2161abba2c5a5cd" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-11-16 17:54:02" name="PP" targetId="2c7374528023457ba9d9a4d849599159" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-11-16 17:46:58" name="OO" targetId="25bb7648865744f38a2e230d48fe63b1" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-11-16 17:44:12" name="NN" targetId="f72a4b80edb647ddac8c066f9deb97cd" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-11-16 17:41:36" name="MM" targetId="dc2175f440fe45d999d405545692e4c3" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-11-16 14:25:38" name="LL" targetId="46c0f18529514a688bd8fd454d7096e3" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-11-16 14:21:35" name="KK" targetId="4edb9f6ce1354b94a550223de9512be5" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-11-16 14:17:00" name="JJ" targetId="8cb8f9da06364d09afee8abe379cb55c" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-11-16 14:12:55" name="II" targetId="f8edd7241eb5478a8f150ff991778c89" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-11-16 13:57:30" name="HH" targetId="9ab06103974b45faafe7954365cc46db" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-11-16 13:53:17" name="GG2" targetId="c6b9061ddd234f3c85d30cde066d0ce5" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-11-16 13:48:05" name="FF" targetId="d063b34096734046b2c404803a2a7041" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-11-16 13:39:12" name="EE" targetId="25f8a5393ad74befa7e303e1c624296c" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-11-15 18:39:51" name="GG" targetId="267b65e2417f43e79eacf02f4a5013df" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-11-15 18:47:57" name="ZZ" targetId="08ba0b45f8aa4fd58446d9378fa985c9" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-11-16 13:29:33" name="DD" targetId="af66c8b194fe4861b3d1102898626ec7" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-11-16 13:26:58" name="CC" targetId="503dedaddc6841418f8216d94312c41c" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-11-16 13:23:27" name="BB" targetId="c5b89f07d2a24a80adf9d57f0a43cc29" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-11-16 13:19:57" name="AA" targetId="e0f490f6cdd74da287a0b9a224c1c9d0" version="2.0" />
+  </TargetSet>
+</QCARInfo>
